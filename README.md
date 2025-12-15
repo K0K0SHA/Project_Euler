@@ -5,7 +5,8 @@ Project Euler link:
 https://projecteuler.net/
 
 # About Project Euler
-Leonhard Euler (1707-1783)
+Leonhard Euler (1707-1783) 
+Pronounced "Leonard Oiler" 
 https://en.wikipedia.org/wiki/Leonhard_Euler
 
 ## What is Project Euler?
