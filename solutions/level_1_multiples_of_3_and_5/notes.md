@@ -19,4 +19,4 @@ There is another way to solve it without using any type of data structure:
 * display the total sum
 
 ## CHALLENGE MASTERY
-Once this challenge is completed in Python, Lua, Java, C++, C, Javascript, and Go, the final mastery challenge is to allow the variation of not only upper limit N, but the factors. In other words, modify the code to work with an entire struct (array, list, set, whatever) of factors. 
+Once this challenge is completed in Python, Lua, Java, C++, C, Javascript, and Go, the final mastery challenge is to allow the variation of not only upper limit N, but the factors. In other words, modify the code to work with an entire struct (array, list, set, whatever) of factors. Beware that with more than 2 factors, this challenge becomes more complicated to do without using data structures to prevent duplicates. 
