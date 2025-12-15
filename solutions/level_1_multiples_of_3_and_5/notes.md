@@ -9,3 +9,6 @@ One way to solve this is with a data structure:
 * use a loop to find multiples of 3 and 5, adding them to the data struct  
 * remove all duplicates from the data struct
 * summate all members of the struct (the multiples of 3 and 5)
+
+## CHALLENGE MASTERY
+Once this challenge is completed in Python, Lua, Java, C++, C, Javascript, and Go, the final mastery challenge is to allow the variation of not only upper limit N, but the factors. In other words, modify the code to work with an entire struct (array, list, set, whatever) of factors. 
