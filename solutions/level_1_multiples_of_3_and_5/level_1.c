@@ -29,7 +29,6 @@ int main(){
         }
 
         printf("\nsum of multiples of 3 and/or 5 under 1,000:\n");
-        //printf(sum);
         printf("%d\n", sum);
 
         return(0);
