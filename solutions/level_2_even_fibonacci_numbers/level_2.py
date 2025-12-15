@@ -13,7 +13,6 @@ def Fibonacci(x, y):
         if (x+y)%2 == 0:
                 sum = sum + (x+y)
                 #print(sum) # DEBUG/VERBOSE
-        #a = y
         return x+y
 
 while True:
