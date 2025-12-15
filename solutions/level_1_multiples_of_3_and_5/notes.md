@@ -1,0 +1,11 @@
+# Project Euler Level 1 notes
+## Find the sum of all the multiples of 3 or 5 below 1000  
+A natural number is a positive integer (whole positive or nonnegative number). In certain applications, 0 may be considered a natural number, but whether a natural number is positive or nonnegative is inconsequential in the context of this problem.  
+The general way to solve this problem is very simple. We just need to take 3 and keep multiplying it by 1..2..3..etc until we reach 1,000 (but we need to stop before 1,000). Then we need to do the same thing with 5.  
+The only intricacy in this problem is how we intend to keep track of the multiples. For one thing, we can't have duplicates. Also, we need to add up all our multiples, either at the end or during the program's execution.  
+One way to solve this is with a data structure:  
+
+* Create an empty data structure to hold the multiples  
+* use a loop to find multiples of 3 and 5, adding them to the data struct  
+* remove all duplicates from the data struct
+* summate all members of the struct (the multiples of 3 and 5)
