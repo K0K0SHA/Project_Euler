@@ -38,7 +38,7 @@ public class level_1{
                 System.out.println("sum of multiples of 3 and 5 under 1,000: ");
                 System.out.println(total);
 
-                return 0;
+                return;
 
         } // end public static void main
 } // end class level_1
