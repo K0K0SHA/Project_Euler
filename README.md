@@ -1,5 +1,5 @@
 # Project Euler Solutions
-<img width="960" height="1241" alt="image" src="https://github.com/user-attachments/assets/74d0c381-3cbc-409b-ad14-9bd9573cbd95" />
+<img width="480" height="620" alt="image" src="https://github.com/user-attachments/assets/74d0c381-3cbc-409b-ad14-9bd9573cbd95" />
 
 Project Euler link:
 https://projecteuler.net/
