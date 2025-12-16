@@ -5,3 +5,5 @@ By considering the terms in the Fibonacci sequence whose values do not exceed 4 
 
 # Notes
 * 4 mil is included in the calculation.
+* The general solution is extremely simple. We just need a summation function that adds the sum to the running total if the sum is even, and a way to iterate the Fibonacci sequence
+* For this, we need 4 variables: sum (which is a running total), a, b, and c. c is required because we need a placeholder for the value of a before we iterate
