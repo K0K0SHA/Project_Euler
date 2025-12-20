@@ -1,4 +1,4 @@
--- filename: largest_prime_factor.lua
+-- filename: level_3.lua
 -- Project Euler Level 3 solution in Lua
 -- https://projecteuler.net/problem=3
 -- [GITHUB LINK]
